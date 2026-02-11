@@ -5,7 +5,7 @@
   "identifier": "com.tancsikalex.spotify-linux",
   "build": {
     "beforeDevCommand": "npm run dev",
-    "devUrl": "http://localhost:1420",
+    "devUrl": "https://open.spotify.com",
     "beforeBuildCommand": "npm run build",
     "frontendDist": "../dist"
   },
